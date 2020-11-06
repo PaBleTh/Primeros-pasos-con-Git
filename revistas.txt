@@ -1,0 +1,4 @@
+Revistas descatalogadas: 3
+Revistas prestadass: 27
+Revistas disponibles: 31
+Revistas reservadas: 6
