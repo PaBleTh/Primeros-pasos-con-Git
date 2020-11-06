@@ -1,2 +1,4 @@
-libros
-
+Libros prestados: 120
+Libros disponibles: 210
+Libros reservados: 3
+Libros descatalogados: 15
